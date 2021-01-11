@@ -1,4 +1,4 @@
-# PA
+# Notizen Praxis-Anleiter
 
 [Arbeitsrecht](./Arbeitsrecht.md)
 
